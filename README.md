@@ -26,10 +26,10 @@ More information can be found at : https://matplotlib.org/
 -->Pandas
 Pandas is a high-level data manipulation tool developed by Wes McKinney. It is built on the Numpy package and its key data structure is called the DataFrame. DataFrames allow you to store and manipulate tabular data in rows of observations and columns of variables.pandas is well suited for many different kinds of data:
 
-       1).Tabular data with heterogeneously-typed columns, as in an SQL table or Excel spreadsheet
-       2).Ordered and unordered (not necessarily fixed-frequency) time series data.
-       3).Arbitrary matrix data (homogeneously typed or heterogeneous) with row and column labels
-       4).Any other form of observational / statistical data sets. The data actually need not be labeled at all to be placed into a pandas data structure
+1).Tabular data with heterogeneously-typed columns, as in an SQL table or Excel spreadsheet
+2).Ordered and unordered (not necessarily fixed-frequency) time series data.
+3).Arbitrary matrix data (homogeneously typed or heterogeneous) with row and column labels
+4).Any other form of observational / statistical data sets. The data actually need not be labeled at all to be placed into a pandas data structure
 
 The two primary data structures of pandas, Series (1-dimensional) and DataFrame (2-dimensional), handle the vast majority of typical use cases in finance, statistics, social science, and many areas of engineering. 
 
